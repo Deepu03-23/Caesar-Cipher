@@ -3,6 +3,7 @@
 A simple Python implementation of the Caesar Cipher, a classic encryption technique. This program allows users to encrypt or decrypt messages by shifting letters a specified number of positions in the alphabet.
 
 🔍 Features
+
 1.Supports both encryption and decryption
 
 2.Handles uppercase and lowercase letters
